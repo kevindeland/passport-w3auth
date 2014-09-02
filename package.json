@@ -1,0 +1,18 @@
+{
+  "name": "passport-w3auth",
+  "version": "0.0.1",
+  "description": "small library for easily connecting to w3 authorization services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.rtp.raleigh.ibm.com:kmdeland-us/passport-w3auth.git"
+  },
+  "keywords": [
+    "passport"
+  ],
+  "author": "Kevin DeLand <kmdeland@us.ibm.com> (http://delandaftertime/)",
+  "license": "ISC"
+}
