@@ -1,5 +1,5 @@
 /**
- * New node file
+ * for testing
  */
 var should = require('chai').should(),
 	w3auth = require('../index'),
@@ -10,6 +10,7 @@ var api = 'https://w3auth.ciopaas1.innovate.ibm.com/v1/auth?profile=true',
 
 var config = require('./config');
 
+// TODO get working with Mocha
 /*describe('#getPerson', function() {
 	
 	Strategy.getPerson(config.user, config.pw, function(err, response) {
