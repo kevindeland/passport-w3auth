@@ -1,6 +1,6 @@
 {
   "name": "passport-w3auth",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "small library for easily connecting to w3 authorization services",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   ],
   "author": "Kevin DeLand <kmdeland@us.ibm.com> (http://delandaftertime/)",
   "license": "ISC",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1"
