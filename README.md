@@ -7,7 +7,7 @@ Used to authenticate using a w3 authorization API
 
    npm install passport-w3auth --save
 
-## Usage
+## Using Passport with Express
 
 
    app.js
@@ -35,3 +35,8 @@ Used to authenticate using a w3 authorization API
        config: config
    };
    ```
+
+
+## Using API
+
+   Under construction
