@@ -13,8 +13,7 @@
   "dependencies": {
     "passport": "0.2.1",
     "ldapjs": "0.7.1",
-    "request": "^2.40.0",
-    "basic-auth": "1.0.0"
+    "request": "^2.40.0"
   },
   "keywords": [
     "passport"
